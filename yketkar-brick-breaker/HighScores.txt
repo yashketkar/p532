@@ -1,0 +1,11 @@
+Name: Player6, Score: 1991
+Name: Player4, Score: 1942
+Name: Player2, Score: 1711
+Name: Player10, Score: 1674
+Name: Player1, Score: 1638
+Name: Player8, Score: 1563
+Name: Player7, Score: 1384
+Name: Player5, Score: 1066
+Name: Player9, Score: 975
+Name: Player3, Score: 918
+Name: Yash Sumant Ketkar, Score: -300
